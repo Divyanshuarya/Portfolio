@@ -314,7 +314,7 @@ function App() {
             is email — I'll get back to you quickly.
           </p>
           <div className="contact-grid">
-            <a className="contact-card" href="mailto:skydkarya@email.com">
+            <a className="contact-card" href="mailto:skydkarya@gmail.com">
               <IconMail />
               <span>skydkarya@email.com</span>
             </a>
